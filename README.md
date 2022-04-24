@@ -7,7 +7,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 - - -
 
-原生V2Ray部署： <https://github.com/zhangfh1976/ss-hero>
+原生V2Ray部署： <https://github.com/ygcaicn/v2ray-heroku>
 
 - - -
 
